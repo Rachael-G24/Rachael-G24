@@ -1,9 +1,6 @@
 # About me
 
 
-**Rachael-G24/Rachael-G24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently sharpening my skills with Wireshark, Networking Fundamentals, and Windows PowerShell, all within my cybersecurity bootcamp with The Ohio State University.
 - 🌱 I’m studying independently for the Linux Essentials exam through the Linux Professional Institute.
